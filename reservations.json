@@ -1,0 +1,27 @@
+{
+    "Carlos": [
+        {
+            "destination": "Tokio",
+            "origin": "ORD (Chicago)",
+            "departure_time": "6:45 PM",
+            "date": "2025-02-17",
+            "price": "$1400"
+        },
+        {
+            "destination": "Berlín",
+            "origin": "ATL (Atlanta)",
+            "departure_time": "8:20 AM",
+            "date": "2025-02-18",
+            "price": "$499"
+        }
+    ],
+    "Juan": [
+        {
+            "destination": "Berlín",
+            "origin": "ATL (Atlanta)",
+            "departure_time": "8:20 AM",
+            "date": "2025-02-18",
+            "price": "$499"
+        }
+    ]
+}
